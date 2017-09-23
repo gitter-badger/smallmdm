@@ -1,0 +1,9 @@
+[submodule "core-server"]
+	path = core-server
+	url = https://github.com/smallmdm/core-server.git
+[submodule "core-web"]
+	path = core-web
+	url = https://github.com/smallmdm/core-web.git
+[submodule "core-docs"]
+	path = core-docs
+	url = https://github.com/smallmdm/core-docs.git
